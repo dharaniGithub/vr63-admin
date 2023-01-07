@@ -4,3 +4,4 @@
 # Jayson -> Square
 # Sabeeli -> Divison
 # Fredrick -> cosine
+print (math.cos(a)) 
