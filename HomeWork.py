@@ -4,7 +4,6 @@
 # Jayson -> Square
 # Sabeeli -> Divison
 # Fredrick -> cosine
-a=int(input)
-b=int(input)
-c=a*b
-print(c)
+
+def Multiplication(n,m):
+    return n * m
