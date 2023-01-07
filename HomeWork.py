@@ -8,3 +8,5 @@ def Square(num):
     num = num * num
     return num
     
+def add(x, y):
+  return x + y
