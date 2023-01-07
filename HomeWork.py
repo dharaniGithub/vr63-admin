@@ -2,20 +2,24 @@
 # Akshaya - > difference
 # Dinesh -> Multiplication
 # Jayson -> Square
-# Sabeeli -> Division
-
-def Multiplication(n,m):
-    return n * m
-
-print (math.cos(a)) 
-
+# Sabeeli -> Divison
+# Fredrick -> cosine
 def Square(num):
     num = num * num
     return num
     
-
-
-
 def add(x, y):
   return x + y
 
+
+
+
+
+
+
+
+
+
+
+
+print("summa")
